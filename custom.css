@@ -1,0 +1,26 @@
+
+#img1 {
+    border-radius: 50px;
+    width: 40px;
+}
+
+#img2 {
+    width: 40px;
+}
+
+.firstSection {
+    color: white;
+}
+
+body > section.SecondSection > div > div {
+    margin-left: 12%;
+}
+
+.intro {
+    margin-left: 12%;
+}
+
+.avatar {
+    width:40px;
+    border-radius: 20px;
+}
